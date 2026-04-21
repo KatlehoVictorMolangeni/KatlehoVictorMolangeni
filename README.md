@@ -1,6 +1,6 @@
 # Katleho Victor Molangeni
 
-Software Engineer | Backend & Full-Stack Developer | Systems Thinker
+Software Engineer | Backend & Full-Stack Developer | Systems Thinker | ICT Graduade - Cum Laude
 
 ---
 
