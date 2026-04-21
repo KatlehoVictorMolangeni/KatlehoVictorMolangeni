@@ -104,7 +104,7 @@ Built a job-matching and task tracking platform with authentication and structur
 
 ---
 
-> “I build systems, not just applications.”## Hi there 👋
+> “I build systems, not just applications.”
 
 <!--
 **KatlehoVictorMolangeni/KatlehoVictorMolangeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
